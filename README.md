@@ -1,7 +1,5 @@
-# Hello-World
+## GIT ESSENTIALS / Git for everyday
+> This is a course to help you learn how to use everyday git
 
-## deployment notes
-LBWI UBIUEBNF ubf  uivwd 
+Course created by: Santiago Martin
 
-## Staging notes
-dxgfchvjbnlk
